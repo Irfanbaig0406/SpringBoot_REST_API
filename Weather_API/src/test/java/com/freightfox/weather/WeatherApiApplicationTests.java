@@ -1,10 +1,10 @@
-package com.freightfox.file;
+package com.freightfox.weather;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo2ApplicationTests {
+class WeatherApiApplicationTests {
 
 	@Test
 	void contextLoads() {
